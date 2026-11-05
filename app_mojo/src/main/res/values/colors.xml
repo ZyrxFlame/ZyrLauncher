@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="control_button_color">#8A4DFF</color>
-    <color name="control_button_pressed_color">#5A2AA5</color>
+    <color name="control_button_color">#7F00FF</color>
+    <color name="control_button_pressed_color">#4B0082</color>
 
     <color name="minebutton_color">#91dffb</color>
     <color name="minebutton_secondary">#2a2a2a</color>
