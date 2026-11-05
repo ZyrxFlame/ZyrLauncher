@@ -113,10 +113,11 @@ android {
         }
         proguard {
             initWith debug
+            debuggable false
             minifyEnabled true
             shrinkResources true
             matchingFallbacks += List.of("debug")
-        }
+		}
         proguardNoDebug {
             initWith proguard
             debuggable false
