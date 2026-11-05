@@ -44,7 +44,11 @@
         <activity
             android:name=".MissingStorageActivity"
             android:exported="false" />
-
+        <activity
+            android:name=".modbrowser.ModBrowserActivity"
+            android:exported="false"
+            android:label="Modrinth Mod Browser"
+            android:windowSoftInputMode="adjustResize" />
         <meta-data
             android:name="android.max_aspect"
             android:value="ratio_float" />
